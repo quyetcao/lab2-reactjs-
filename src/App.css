@@ -1,0 +1,11 @@
+.top{
+  display: flex;
+}
+.div-cmt{
+  margin-left: 5px;
+  display:flex ;
+  align-items: center;
+}
+.in-fo{
+  margin-left:10px ;
+}
